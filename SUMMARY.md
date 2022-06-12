@@ -5,8 +5,13 @@
 * [🐙 Use Cases](cases.md)
 * [💸 The Finances](finance.md)
 * [⁉ Frequently Asked Questions](faq.md)
+* [🔗 Important links](important-links.md)
 
 ## 🕸 Web3 Concepts
 
 * [Decentralized Society](web3-concepts/desoc.md)
 * [Progress Network](web3-concepts/progress.md)
+
+***
+
+* [🇺🇦 Children of Heroes](https://childrenofheroes.com/eng)

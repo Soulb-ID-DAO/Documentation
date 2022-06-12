@@ -10,6 +10,8 @@ description: >-
 
 We believe in and popularize decentralized technologies and communities. That is why we consider  DAO to be the optimal form of organizational structure for Soulb ID. Everyone who would like to take part in the development of the DAO can contact us.
 
+### Important links
+
 **XDAO**\
 ****[https://www.xdao.app/137/dao/0xdfFbb9C3B6DBe042F62C9316AB6A4cCBb80A2D25](https://www.xdao.app/137/dao/0xdfFbb9C3B6DBe042F62C9316AB6A4cCBb80A2D25)
 
@@ -21,8 +23,7 @@ We believe in and popularize decentralized technologies and communities. That is
 **Telegram**
 
 {% hint style="info" %}
-**Important!** \
-Check links to official channels. Official information about the project is distributed exclusively through official channels
+Please note! Official information about the project is distributed exclusively through official channels.
 {% endhint %}
 
 ### Governance Token
@@ -36,13 +37,13 @@ SBGOV
 **Explorer**\
 ****[Polygon Explorer](https://polygonscan.com/token/0xdffbb9c3b6dbe042f62c9316ab6a4ccbb80a2d25)
 
-## Mission, Vision, Values
+## Mission **&** Vision
 
-All good? Let's explore some of the main GitBook concepts, starting with **Spaces**.
+text
 
-{% hint style="info" %}
-Write us if you want to commit to DAO to commit
-{% endhint %}
+## **Team**
 
-## Team
-
+| Gene Deyev | Ross Shemeliak |
+| ---------- | -------------- |
+| Vadym      | Elena          |
+| Dmitri     |                |

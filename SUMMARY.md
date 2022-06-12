@@ -5,7 +5,6 @@
 * [🐙 Use Cases](cases.md)
 * [💸 The Finances](finance.md)
 * [⁉ Frequently Asked Questions](faq.md)
-* [🔗 Important links](important-links.md)
 
 ## 🕸 Web3 Concepts
 

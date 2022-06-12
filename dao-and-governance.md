@@ -1,5 +1,7 @@
 ---
-description: Decentralized community and governance
+description: >-
+  Transparent governance controlled by the organization's members and not
+  influenced by a central body.
 ---
 
 # ☮ DAO & Governance
@@ -42,4 +44,5 @@ All good? Let's explore some of the main GitBook concepts, starting with **Space
 Write us if you want to commit to DAO to commit
 {% endhint %}
 
-## DAO Team
+## Team
+

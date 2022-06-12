@@ -1,7 +1,5 @@
 ---
 description: Real-life identities and social capital brought to Web3.
-cover: .gitbook/assets/1.png
-coverY: 0
 ---
 
 # 😇 Introduction to Soulb ID

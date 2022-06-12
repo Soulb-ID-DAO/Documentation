@@ -1,11 +1,12 @@
 ---
-description: text
+description: Text goes
 ---
 
-# 💸 The Finances
+# 💸 Tokenomics
 
 ## SBID Token <a href="#sbid-token" id="sbid-token"></a>
 
-### Tokenomics <a href="#tokenomics" id="tokenomics"></a>
+## Token utilities <a href="#token-utility" id="token-utility"></a>
 
-### Token utility <a href="#token-utility" id="token-utility"></a>
+## Assumptions <a href="#tokenomics" id="tokenomics"></a>
+

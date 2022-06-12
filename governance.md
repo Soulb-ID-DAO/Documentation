@@ -20,7 +20,8 @@ We believe in and popularize decentralized technologies and communities. That is
 
 **Twitter**
 
-**Telegram**
+**Telegram**\
+[https://t.me/soulb\_id\_dao](https://t.me/soulb\_id\_dao)
 
 {% hint style="info" %}
 Please note! Official information about the project is distributed exclusively through official channels.

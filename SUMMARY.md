@@ -3,7 +3,6 @@
 * [😇 Introduction to Soulb ID](README.md)
 * [☮ DAO & Governance](governance.md)
 * [🐙 Use Cases](cases.md)
-* [💸 Tokenomics](tokenomics.md)
 * [⁉ Frequently Asked Questions](faq.md)
 
 ## 🕸 Web3 Concepts

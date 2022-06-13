@@ -10,7 +10,7 @@ Soulb ID is a DAO-governed application for the issuance and management of Soulbo
 
 ## Soulbound ID Tokens \[SBID]
 
-Soulbound Tokens (SBTs) or Non-Transferrable Tokens (NTTs) are similar to NFTs, except that they cannot be transferred once minded. They cannot be bought, sold, or traded. SBTs can be used to store verifiable credentials, i.e. personal identity and social data. &#x20;
+Soulbound Tokens (SBTs) or Non-Transferrable Tokens (NTTs) are similar to NFTs, except that they cannot be transferred once minted. They cannot be bought, sold, or traded. SBTs can be used to store verifiable credentials, i.e. personal identity and social data. &#x20;
 
 ## SBID Token Types <a href="#sbid-token-types" id="sbid-token-types"></a>
 

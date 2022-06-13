@@ -16,4 +16,12 @@ Most financial transactions are heavily regulated in order to avoid a lot of fra
 
 ## Permissioned access to communities
 
+Decentralized networks should include allowed access to closed communities. At the moment, access is provided through certain tokens that are not tied to personalities. They can be sold, and thereby transfer the right to participate in a closed community, which may violate its ideology. Thanks to Soulb ID and soulband tokens, guaranteed participation of specific individuals in the DAO or other decentralized organizations and communities is ensured.
+
 ## Social rankings
+
+Soulband tokens, namely tokens that cannot be sold or exchanged, can be used as lifetime user ranking systems. Building a DeFi mechanic using such tokens transfers the accumulated qualities of the user into a non-transferable asset directly to the user himself. For example, a user who is an active participant in a dapp can be awarded a Soulb ID token that will determine their superiority over other participants at the blockchain level.
+
+{% hint style="info" %}
+If you would like to explore cases or potential implementations of Soulb ID and soulbound tokens, please [contact us](mailto:gd@stobox.io).
+{% endhint %}

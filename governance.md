@@ -36,10 +36,6 @@ SBGOV
 **Explorer**\
 ****[Polygon Explorer](https://polygonscan.com/token/0xdffbb9c3b6dbe042f62c9316ab6a4ccbb80a2d25)
 
-## Mission **&** Vision
-
-Building web3&#x20;
-
 ## **Team**
 
 | <p><strong>Architect, Lead</strong><br><strong></strong>Gene Deyev</p>                         | <p><strong>Business Development</strong><br><strong></strong>Ross Shemeliak</p>                                           |

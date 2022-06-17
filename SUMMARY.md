@@ -9,7 +9,3 @@
 
 * [Decentralized Society](web3-concepts/desoc.md)
 * [Progress Network](web3-concepts/progress.md)
-
-***
-
-* [🇺🇦 Children of Heroes](https://childrenofheroes.com/eng)

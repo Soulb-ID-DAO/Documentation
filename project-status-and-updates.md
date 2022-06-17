@@ -10,6 +10,6 @@ To know details please contact [Gene Deyev](https://www.linkedin.com/in/deyev/)&
 
 **15 June 2022**\
 ****:computer: The development has commenced\
-Architects: Gene Deyev (Stobox), Konstantin Dementiev  \
+Architects: Gene Deyev (Stobox), Konstantin Dementiev (Cody UA)\
 PMs: Dmitri Trapitsyn (Stobox), Anna Shvaydetskaya (Cody UA)\
 Devs: Elena Dolinchuk (Stobox), Andrey Krishtalevich (Cody UA)\

@@ -1,9 +1,9 @@
 # Table of contents
 
 * [😇 Introduction to Soulb ID](README.md)
+* [☑ Project Status & Updates](project-status-and-updates.md)
 * [☮ DAO & Governance](governance.md)
 * [🐙 Use Cases](cases.md)
-* [⁉ Frequently Asked Questions](faq.md)
 
 ## 🕸 Web3 Concepts
 

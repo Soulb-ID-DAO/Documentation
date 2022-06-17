@@ -1,7 +1,7 @@
 # ☑ Project Status & Updates
 
 **17 June 2022**\
-****:exclamation:Important decision\
+****:exclamation:Decision made\
 Soulb ID DAO does not plan to issue or operate any utility token. There is no functional need to implement an additional utility token. Well-known global cryptocurrencies would be accepted as payments for Soulb ID services.&#x20;
 
 **17 June 2022**\

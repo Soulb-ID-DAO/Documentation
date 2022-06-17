@@ -34,9 +34,16 @@ SBGOV
 
 ## **Team**
 
-| <p><strong>Architect, Lead</strong><br><strong></strong>Gene Deyev</p>                         | <p><strong>Business Development</strong><br><strong></strong>Ross Shemeliak</p>                                           |
-| ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| <p><strong>Business Development, Communications</strong><br><strong></strong>Boris Pikalov</p> | <p><strong>Finance, Business Modeling, Tokenomics</strong><br><strong></strong>Vadym Lutsiv</p>                           |
-| <p><strong>Communications, Operations</strong><br><strong></strong>Igor Haleta</p>             | <p><strong>Project Management</strong><br><strong></strong>Dmitry Trapitsyn</p>                                           |
-| <p><strong>Blockchain Development</strong><br><strong></strong>Elena Dolinchuk</p>             | <p><strong>Partners</strong><br><a href="https://codyua.com/">Cody UA</a>, <a href="https://www.stobox.io">Stobox</a></p> |
-|                                                                                                |                                                                                                                           |
+| <p><strong>Team Lead</strong><br><strong></strong>Gene Deyev</p>                               | <p><strong>Business Development</strong><br><strong></strong>Ross Shemeliak</p>                 |
+| ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| <p><strong>Business Development, Communications</strong><br><strong></strong>Boris Pikalov</p> | <p><strong>Finance, Business Modeling, Tokenomics</strong><br><strong></strong>Vadym Lutsiv</p> |
+| <p><strong>Communications, Operations</strong><br><strong></strong>Igor Haleta</p>             | <p><strong>Project Management</strong><br><strong></strong>Dmitry Trapitsyn</p>                 |
+| <p><strong>Blockchain Development</strong><br><strong></strong>Elena Dolinchuk</p>             | <p><strong>Legal Management</strong><br>Daniil Voloshchuk</p>                                   |
+
+## Partners
+
+[Cody UA](https://codyua.com/)\
+Blockchain Development, Architecture, IT Outsource
+
+[Stobox Technologies](https://www.stobox.io)\
+Business Concept, Architecture, Implementation, Project Management\

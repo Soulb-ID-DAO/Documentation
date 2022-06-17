@@ -6,9 +6,9 @@ description: >-
 
 # ☮ DAO & Governance
 
-## Decentralized Autonomous Organization
+![](.gitbook/assets/\_\_1.png)
 
-We believe in and popularize decentralized technologies and communities. That is why we consider  DAO to be the optimal form of organizational structure for Soulb ID. Everyone who would like to take part in the development of the DAO can contact us.
+## Decentralized Autonomous Organization
 
 ### Important links
 
@@ -20,10 +20,6 @@ We believe in and popularize decentralized technologies and communities. That is
 
 **Telegram**\
 [https://t.me/soulb\_id\_dao](https://t.me/soulb\_id\_dao)
-
-{% hint style="info" %}
-Please note! Official information about the project is distributed exclusively through official channels.
-{% endhint %}
 
 ### Governance Token
 

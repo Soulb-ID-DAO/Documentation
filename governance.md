@@ -18,8 +18,6 @@ We believe in and popularize decentralized technologies and communities. That is
 **Github**\
 ****[https://github.com/Soulb-ID-DAO](https://github.com/Soulb-ID-DAO)
 
-**Twitter**
-
 **Telegram**\
 [https://t.me/soulb\_id\_dao](https://t.me/soulb\_id\_dao)
 

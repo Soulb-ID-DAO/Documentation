@@ -38,11 +38,13 @@ SBGOV
 
 ## Mission **&** Vision
 
-text
+Building web3&#x20;
 
 ## **Team**
 
-| Gene Deyev | Ross Shemeliak |
-| ---------- | -------------- |
-| Vadym      | Elena          |
-| Dmitri     |                |
+| <p><strong>Architect, Lead</strong><br><strong></strong>Gene Deyev</p>                         | <p><strong>Business Development</strong><br><strong></strong>Ross Shemeliak</p>                                           |
+| ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| <p><strong>Business Development, Communications</strong><br><strong></strong>Boris Pikalov</p> | <p><strong>Finance, Business Modeling, Tokenomics</strong><br><strong></strong>Vadym Lutsiv</p>                           |
+| <p><strong>Communications, Operations</strong><br><strong></strong>Igor Haleta</p>             | <p><strong>Project Management</strong><br><strong></strong>Dmitry Trapitsyn</p>                                           |
+| <p><strong>Blockchain Development</strong><br><strong></strong>Elena Dolinchuk</p>             | <p><strong>Partners</strong><br><a href="https://codyua.com/">Cody UA</a>, <a href="https://www.stobox.io">Stobox</a></p> |
+|                                                                                                |                                                                                                                           |

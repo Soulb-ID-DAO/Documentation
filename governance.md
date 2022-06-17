@@ -34,7 +34,7 @@ SBGOV
 
 ## **Team**
 
-| <p><strong>Architect, Lead</strong><br><strong></strong>Gene Deyev</p>                         | <p><strong>Business Development</strong><br><strong></strong>Ross Shemeliak</p>                                           |
+| <p><strong>Team Lead</strong><br><strong></strong>Gene Deyev</p>                               | <p><strong>Business Development</strong><br><strong></strong>Ross Shemeliak</p>                                           |
 | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
 | <p><strong>Business Development, Communications</strong><br><strong></strong>Boris Pikalov</p> | <p><strong>Finance, Business Modeling, Tokenomics</strong><br><strong></strong>Vadym Lutsiv</p>                           |
 | <p><strong>Communications, Operations</strong><br><strong></strong>Igor Haleta</p>             | <p><strong>Project Management</strong><br><strong></strong>Dmitry Trapitsyn</p>                                           |

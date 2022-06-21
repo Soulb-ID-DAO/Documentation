@@ -32,6 +32,16 @@ SBGOV
 **Explorer**\
 ****[Polygon Explorer](https://polygonscan.com/token/0xdffbb9c3b6dbe042f62c9316ab6a4ccbb80a2d25)
 
+**Memberships**\
+****Every founding team member receives 10,000 SBGOV\
+Every new team member receives 2,500 SBGOV&#x20;
+
+## **Securities Allocation**
+
+Team - 50%, Advisors - 10%, DAO - 20%, **Seed Round - 20%**
+
+DAO is represented by the 20% of shareholding equity.
+
 ## **Team**
 
 | <p><strong>Team Lead</strong><br><strong></strong>Gene Deyev</p>                               | <p><strong>Business Development</strong><br><strong></strong>Ross Shemeliak</p>                 |

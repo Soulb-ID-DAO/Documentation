@@ -37,3 +37,7 @@ Soulbound Tokens (SBTs) or Non-Transferrable Tokens (NTTs) are similar to NFTs, 
 ### [ℹ️](https://emojipedia.org/information/) | Additional soulbound tokens
 
 Additional token types will be implemented after the release of the Basic and Enhanced Identity Tokens.&#x20;
+
+## Technical structure&#x20;
+
+![](<.gitbook/assets/\_--\_NTT-Solution-Architecture-MVP (1).svg>)

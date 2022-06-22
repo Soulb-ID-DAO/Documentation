@@ -6,10 +6,6 @@ description: >-
 
 # ☮ DAO & Governance
 
-![](.gitbook/assets/\_\_1.png)
-
-## Decentralized Autonomous Organization
-
 ### Important links
 
 **XDAO**\

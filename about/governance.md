@@ -49,11 +49,13 @@ DAO is represented by the 20% of shareholding equity.
 
 ## **Team**
 
-| <p><strong>Team Lead</strong><br><strong></strong>Gene Deyev</p>                               | <p><strong>Business Development</strong><br><strong></strong>Ross Shemeliak</p>                 |
-| ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| <p><strong>Business Development, Communications</strong><br><strong></strong>Boris Pikalov</p> | <p><strong>Finance, Business Modeling, Tokenomics</strong><br><strong></strong>Vadym Lutsiv</p> |
-| <p><strong>Communications, Operations</strong><br><strong></strong>Igor Haleta</p>             | <p><strong>Project Management</strong><br><strong></strong>Dmitry Trapitsyn</p>                 |
-| <p><strong>Blockchain Development</strong><br><strong></strong>Elena Dolinchuk</p>             | <p><strong>Legal Management</strong><br>Daniil Voloshchuk</p>                                   |
+###
+
+| <p><strong>Team Lead</strong><br><strong></strong><a href="https://www.linkedin.com/in/deyev/">Gene Deyev</a></p>                                       | <p><strong>Business Development</strong><br><strong></strong><a href="https://www.linkedin.com/in/ross-shemeliak/">Ross Shemeliak</a></p> |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| <p><strong>Business Development, Communications</strong><br><strong></strong><a href="https://www.linkedin.com/in/borys-pikalov/">Boris Pikalov</a></p> | <p><strong>Finance, Business Modeling, Tokenomics</strong><br><strong></strong>Vadym Lutsiv</p>                                           |
+| <p><strong>Communications, Operations</strong><br><strong></strong><a href="https://www.linkedin.com/in/igor-haleta/">Igor Haleta</a></p>               | <p><strong>Project Management</strong><br><strong></strong>Dmitry Trapitsyn</p>                                                           |
+| <p><strong>Blockchain Development</strong><br><strong></strong>Elena Dolinchuk</p>                                                                      | <p><strong>Legal Management</strong><br>Daniil Voloshchuk</p>                                                                             |
 
 ## Partners
 

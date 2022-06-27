@@ -1,3 +1,3 @@
 # Progress Network
 
-Planned updates: June 2022
+Coming soon

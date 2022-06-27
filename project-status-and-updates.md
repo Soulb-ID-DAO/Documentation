@@ -1,7 +1,8 @@
 # ☝ Project Status & Updates
 
 **27 June 2022**\
-**Seed Round Started**
+**Pitch Updated.** Seed Round Started\
+NTT v.1.0 Smart Contract | [Github](https://github.com/StoboxTechnologies/soulb.id)
 
 **22 June 2022**\
 **Team Meeting Discussions**\

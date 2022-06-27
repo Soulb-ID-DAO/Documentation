@@ -7,7 +7,7 @@
 
 * [Soulb SBID Types](about/soulb.md)
 * [Use Cases](about/cases.md)
-* [DAO & Governance](about/governance.md)
+* [Company & Governance](about/governance.md)
 
 ## 💡 Useful links
 

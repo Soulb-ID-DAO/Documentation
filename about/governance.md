@@ -4,12 +4,9 @@ description: >-
   influenced by a central body.
 ---
 
-# DAO & Governance
+# Company & Governance
 
-### Important links
-
-**XDAO**\
-****[https://www.xdao.app/137/dao/0xdfFbb9C3B6DBe042F62C9316AB6A4cCBb80A2D25](https://www.xdao.app/137/dao/0xdfFbb9C3B6DBe042F62C9316AB6A4cCBb80A2D25)
+## Social Links
 
 **Github**\
 ****[https://github.com/Soulb-ID-DAO](https://github.com/Soulb-ID-DAO)
@@ -17,13 +14,16 @@ description: >-
 **Telegram**\
 [https://t.me/soulb\_id\_dao](https://t.me/soulb\_id\_dao)
 
-### Governance Token
+## DAO | Governance Token
 
 **Name**\
 Soulb ID DAO
 
 **Ticker**\
 SBGOV
+
+**XDAO**\
+****[https://www.xdao.app/137/dao/0xdfFbb9C3B6DBe042F62C9316AB6A4cCBb80A2D25](https://www.xdao.app/137/dao/0xdfFbb9C3B6DBe042F62C9316AB6A4cCBb80A2D25)
 
 **Explorer**\
 ****[Polygon Explorer](https://polygonscan.com/token/0xdffbb9c3b6dbe042f62c9316ab6a4ccbb80a2d25)
@@ -32,9 +32,18 @@ SBGOV
 ****Every founding team member receives 10,000 SBGOV\
 Every new team member receives 2,500 SBGOV&#x20;
 
-## **Securities Allocation**
+## **Corporate Structure**
 
-Team - 50%, Advisors - 10%, DAO - 20%, **Seed Round - 20%**
+**Company type**: LLC
+
+**Registration**: Wyoming, US
+
+**Security Tokens / Shares Class A Allocation**:
+
+* Team - 50%
+* Advisors - 10%
+* DAO - 20%
+* **Seed Round - 20%**
 
 DAO is represented by the 20% of shareholding equity.
 

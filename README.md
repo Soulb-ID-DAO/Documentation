@@ -1,43 +1,73 @@
 ---
-description: Real-life identities and social capital brought to Web3.
+cover: .gitbook/assets/base3.png
+coverY: 266.3597122302158
 ---
 
-# 😇 Introduction to Soulb ID
+# 💼 Seed Pitch
 
-## What is Soulb ID?
+## Slide 1 | What is Soulb ID?
 
-Soulb ID is a DAO-governed application for the issuance and management of Soulbound Tokens (SBT) including digital identities, certificates, and community ratings.&#x20;
+**DAO-governed application for the issuance and management of Identity or Soulbound Tokens (SBIDs).**
 
-## Soulbound ID Tokens \[SBID]
+* Identities
+* Commitments
+* Credentials
+* Affiliations
 
-Soulbound Tokens (SBTs) or Non-Transferrable Tokens (NTTs) are similar to NFTs, except that they cannot be transferred once minted. They cannot be bought, sold, or traded. SBTs can be used to store verifiable credentials, i.e. personal identity and social data. &#x20;
+**`Web3 | DeSoc | Tokenization`**
 
-## SBID Token Types <a href="#sbid-token-types" id="sbid-token-types"></a>
+## Slide 2 | **Problem**
 
-### 1️⃣ | Basic Identity token <a href="#1-or-basic-identity-token" id="1-or-basic-identity-token"></a>
+Decentralized web unlocks a multi-trillion dollar industry where **users/wallets remain anonymous**, which leads to numerous frauds and market manipulations.
 
-| SBID Token Data                | Description                                                                                                                                                                                                                                         |
-| ------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Identity Document Verification | Determination of whether a document is authentic, legitimate, and free of forgery or alteration.                                                                                                                                                    |
-| Primary Identification Fields  | <p>Automatic extraction of data from identity documents for further processing. By default, five fields are extracted:</p><ul><li>Full name,</li><li>Date of birth,</li><li>Document number,</li><li>Issue date,</li><li>Expiration date.</li></ul> |
-| On-chain Identification        | <ul><li>Blockchain wallet address</li></ul>                                                                                                                                                                                                         |
-| Liveness check and Face Match  | Biometric analysis of a person's facial movements compared with Match photographs on submitted documents. This is to ensure that a person is truly present and that their documents belong to them.                                                 |
-| Known face search              | Determination of whether a person's face is duplicated or present on blacklists.                                                                                                                                                                    |
-| AML Screening                  | Determination of a natural person's presence or non-presence on global sanctions lists, PEP lists, watchlists, blacklists, or adverse media (OFAC, UN, HMT, EU, DFT, etc.)                                                                          |
-| Email verification             | Verification of email addresses to ensure their validity and that they belong to a real person.                                                                                                                                                     |
+* DeFi's lack of regulatory clarity and law enforcement
+* AML and compliance scaling challenges
+* Lack of trust
+  * Recent fraud cases i.e. Luna, UST
 
-### 2️⃣ | Enhanced identity token <a href="#2-or-enhanced-identity-token" id="2-or-enhanced-identity-token"></a>
+## **Slide 3 | Solution**
 
-| SBID Token Data                                    | Description                                                                                                                                                                                                                                                                                                       |
-| -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Proof of Address Check                             | <p>Verification of addresses and residency through analysis of the following documents:</p><ul><li>Driving licenses bearing residential address;</li><li>Tax bills;</li><li>Utility bills;</li><li>Voter rolls;</li><li>Bank statements;</li><li>Other documents commonly accepted as proof of address.</li></ul> |
-| Ongoing AML monitoring (Addition to AML Screening) | Re-check of the database against AML watchlists (sanctions, PEPs, adverse media, etc).                                                                                                                                                                                                                            |
-| Phone verification                                 | Verification of phone numbers to ensure their validity and that they belong to a real person.                                                                                                                                                                                                                     |
+**A decentralized application for issuance and management of identity tokens and other soulbound tokens**. Merging blockchain wallets with their owners' identities ensures access to the decentralized web in accordance with financial regulations.
 
-### [ℹ️](https://emojipedia.org/information/) | Additional soulbound tokens
+* Non-Transferrable Token (ERC-721)
+  * Similar to NFT, but no <mark style="color:purple;">`transfer`</mark> function.
+* Blockchain agnostic
+  * Smart Chain (BSC)
+  * Polygon
+  * Ethereum
+* API-connect to trustworthy KYC providers
 
-Additional token types will be implemented after the release of the Basic and Enhanced Identity Tokens.&#x20;
+![](<.gitbook/assets/\_--\_NTT-Solution-Architecture-MVP (1) (1).svg>)
 
-## Technical structure&#x20;
+## Slide 4 | How does **** it work?
 
-![](<.gitbook/assets/\_--\_NTT-Solution-Architecture-MVP (1).svg>)
+Soulb ID application supports two types of users: **business** and **customer**.
+
+| Customer Flow                                                                                                                                                                                                                                                                               | Business Flow                                                                                                                                                                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>Connect</li><li>Authorize</li><li><p>Select Soulb ID</p><ul><li>Basic Identity Token</li><li>Enhanced Identity Token</li><li>Other</li></ul></li><li>Make payment </li><li>Receive SBID</li></ul><p><strong>Navigate web3 with your private data encoded and protected</strong></p> | <p><strong>API Connect</strong></p><ul><li>Register</li><li>Receive API Key</li><li>Integrate </li><li>Validate</li></ul><p><strong>Grant access to a decentralized application with respect to unique user parameters stored in SBID.</strong> <br><strong></strong></p><p></p> |
+
+## **Slide 5 | Business Model**
+
+Soulb does not have a **utility token**. All payments are processed via fiat and crypto merchants.
+
+### **For customer**
+
+* Basic Identity Token - $10
+* Enhanced Identity Token - $10
+
+### For business
+
+* Integration - Free
+* Validation - Free
+
+Business clients may compensate the costs of minting SBIDs for their users
+
+
+
+
+
+
+
+****
+

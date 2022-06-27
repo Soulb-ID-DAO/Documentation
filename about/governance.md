@@ -4,7 +4,7 @@ description: >-
   influenced by a central body.
 ---
 
-# ☮ DAO & Governance
+# DAO & Governance
 
 ### Important links
 

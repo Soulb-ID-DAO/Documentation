@@ -1,10 +1,13 @@
 # Table of contents
 
-* [😇 Introduction](README.md)
-  * [Seed Pitch](soulb/seed-pitch.md)
-* [☑ Project Status & Updates](project-status-and-updates.md)
-* [☮ DAO & Governance](governance.md)
-* [🐙 Use Cases](cases.md)
+* [💼 Seed Pitch](README.md)
+* [☝ Project Status & Updates](project-status-and-updates.md)
+
+## ABOUT
+
+* [Soulb SBID Types](about/soulb.md)
+* [Use Cases](about/cases.md)
+* [DAO & Governance](about/governance.md)
 
 ## 🕸 Web3 Concepts
 

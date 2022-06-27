@@ -4,7 +4,7 @@ description: >-
   to full on-chain validation of personal data.
 ---
 
-# 🐙 Use Cases
+# Use Cases
 
 ## On-chain identity validation
 

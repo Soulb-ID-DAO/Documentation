@@ -1,6 +1,7 @@
 # Table of contents
 
-* [😇 Introduction to Soulb ID](README.md)
+* [😇 Introduction](README.md)
+  * [Seed Pitch](soulb/seed-pitch.md)
 * [☑ Project Status & Updates](project-status-and-updates.md)
 * [☮ DAO & Governance](governance.md)
 * [🐙 Use Cases](cases.md)

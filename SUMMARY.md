@@ -1,7 +1,7 @@
 # Table of contents
 
 * [💼 Seed Pitch v.1.0](README.md)
-* [☝ Project Status & Updates](project-status-and-updates.md)
+* [☝ Project Status & Updates](updates.md)
 
 ## ABOUT
 

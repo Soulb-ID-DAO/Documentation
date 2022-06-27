@@ -49,8 +49,6 @@ DAO is represented by the 20% of shareholding equity.
 
 ## **Team**
 
-###
-
 | <p><strong>Team Lead</strong><br><strong></strong><a href="https://www.linkedin.com/in/deyev/">Gene Deyev</a></p>                                       | <p><strong>Business Development</strong><br><strong></strong><a href="https://www.linkedin.com/in/ross-shemeliak/">Ross Shemeliak</a></p> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | <p><strong>Business Development, Communications</strong><br><strong></strong><a href="https://www.linkedin.com/in/borys-pikalov/">Boris Pikalov</a></p> | <p><strong>Finance, Business Modeling, Tokenomics</strong><br><strong></strong>Vadym Lutsiv</p>                                           |

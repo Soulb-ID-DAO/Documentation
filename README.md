@@ -3,7 +3,7 @@ cover: .gitbook/assets/base3.png
 coverY: 266.3597122302158
 ---
 
-# 💼 Seed Pitch
+# 💼 Seed Pitch v.1.0
 
 ## Slide 1 | What is Soulb ID?
 
@@ -128,4 +128,4 @@ DAO is represented by the 20% of shareholding equity.
 
 **Hard cap:** $1,000,000
 
-**Contact** [**Gene Deyev**](https://www.linkedin.com/in/deyev/) **or write to** [**gd@stoboxplatform.com**](mailto:gd@stoboxplatform.com)****
+**Contact** [**Gene Deyev**](https://www.linkedin.com/in/deyev/) **or** [**Vadym Lutsiv**](mailto:vl@stoboxplatform.com) **write to** [**gd@stoboxplatform.com**](mailto:gd@stoboxplatform.com)****

@@ -118,14 +118,16 @@ Blockchain Development, Architecture, IT Outsource
 
 ## **Slide 9 |** Round Terms&#x20;
 
-### **Security Tokens / Shares Class A Allocation**
+### **Shares Class A**
 
-Team - 50%, Advisors - 10%, DAO - 20%, **Seed Round - 20%**
+**Seed Round -** 20%&#x20;
 
-DAO is represented by the 20% of shareholding equity.
+**Type:** SAFE
 
 **Soft cap:** $250,000
 
 **Hard cap:** $1,000,000
+
+**Conversion provisions:** Conversion is triggered when the company's management announces the closure of the current fundraising round. The notes are converted into 20% of equity, which is distributed pro-rata based on the invested amount. For example, if one invests $100,000, and the size of the round is $500,000, the investor gets 20% / 5 = 4% of equity.
 
 **Contact** [**Gene Deyev**](https://www.linkedin.com/in/deyev/) **or** [**Vadym Lutsiv**](mailto:vl@stoboxplatform.com) **write to** [**gd@stoboxplatform.com**](mailto:gd@stoboxplatform.com)****

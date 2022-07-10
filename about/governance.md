@@ -40,9 +40,7 @@ Every new team member receives 2,500 SBGOV&#x20;
 
 **Security Tokens / Shares Class A Allocation**:
 
-* Team - 50%
-* Advisors - 10%
-* DAO - 20%
+* Team - 100% (Pre distribution)&#x20;
 * **Seed Round - 20%**
 
 DAO is represented by the 20% of shareholding equity.

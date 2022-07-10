@@ -1,5 +1,10 @@
 # ☝ Project Status & Updates
 
+### **06 July 2022**
+
+**Pitch Updated to 1.1.** \
+Updated technical structure.&#x20;
+
 ### **27 June 2022**
 
 **Pitch Updated.** Seed Round Started\

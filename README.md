@@ -7,7 +7,7 @@ coverY: 266.3597122302158
 
 ## Slide 1 | What is Soulb ID?
 
-**DAO-governed application for the issuance and management of Identity or Soulbound Tokens (SBIDs).**
+**An application for the issuance and management of Identity or Soulbound Tokens (SBIDs).**
 
 * Identities
 * Commitments

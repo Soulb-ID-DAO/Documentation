@@ -3,7 +3,7 @@ cover: .gitbook/assets/base3.png
 coverY: 266.3597122302158
 ---
 
-# 💼 Seed Pitch v.1.0
+# 💼 Seed Pitch v.1.1
 
 ## Slide 1 | What is Soulb ID?
 
@@ -118,16 +118,14 @@ Blockchain Development, Architecture, IT Outsource
 
 ## **Slide 9 |** Round Terms&#x20;
 
-### **Shares Class A**
+**Round:** Seed ****&#x20;
 
-**Seed Round -** 20%&#x20;
+**Security:** SAFE
 
-**Type:** SAFE
+**Target Raise:** from $250,000 to $1,000,000
 
-**Soft cap:** $250,000
+**Discount Rate:** 15%
 
-**Hard cap:** $1,000,000
-
-**Conversion provisions:** Conversion is triggered when the company's management announces the closure of the current fundraising round. The notes are converted into 20% of equity, which is distributed pro-rata based on the invested amount. For example, if one invests $100,000, and the size of the round is $500,000, the investor gets 20% / 5 = 4% of equity.
+**Valuation Cap:** $5,000,000
 
 **Contact** [**Gene Deyev**](https://www.linkedin.com/in/deyev/) **or** [**Vadym Lutsiv**](mailto:vl@stoboxplatform.com) **write to** [**gd@stoboxplatform.com**](mailto:gd@stoboxplatform.com)****

@@ -1,6 +1,6 @@
 # Table of contents
 
-* [💼 Seed Pitch v.1.1](README.md)
+* [💼 Welcome to Soulb ID](README.md)
 * [☝ Project Status & Updates](updates.md)
 
 ## ABOUT

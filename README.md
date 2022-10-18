@@ -1,9 +1,9 @@
 ---
-cover: .gitbook/assets/base3.png
-coverY: 266.3597122302158
+cover: .gitbook/assets/background-2.png
+coverY: -424.978417266187
 ---
 
-# 💼 Seed Pitch v.1.1
+# 💼 Welcome to Soulb ID
 
 ## Slide 1 | What is Soulb ID?
 

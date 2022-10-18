@@ -4,59 +4,23 @@ description: >-
   influenced by a central body.
 ---
 
-# Company & Governance
+# Company & Tokens
 
 ## Social Links
 
-**Github**\
+**GitHub**\
 ****[https://github.com/Soulb-ID-DAO](https://github.com/Soulb-ID-DAO)
 
 **Telegram**\
-[https://t.me/soulb\_id\_dao](https://t.me/soulb\_id\_dao)
+[https://t.me/soulbidchannel](https://t.me/soulbidchannel)
 
-## DAO | Governance Token
+**Twitter**\
+&#x20;[https://twitter.com/soulb\_id](https://twitter.com/soulb\_id)
 
-**Name**\
-Soulb ID DAO
+## Soulb ID Utility Token
 
-**Ticker**\
-SBGOV
+TBA
 
-**XDAO**\
-****[https://www.xdao.app/137/dao/0xdfFbb9C3B6DBe042F62C9316AB6A4cCBb80A2D25](https://www.xdao.app/137/dao/0xdfFbb9C3B6DBe042F62C9316AB6A4cCBb80A2D25)
+## Soulb ID Security Token
 
-**Explorer**\
-****[Polygon Explorer](https://polygonscan.com/token/0xdffbb9c3b6dbe042f62c9316ab6a4ccbb80a2d25)
-
-**Memberships**\
-****Every founding team member receives 10,000 SBGOV\
-Every new team member receives 2,500 SBGOV&#x20;
-
-## **Corporate Structure**
-
-**Company type**: LLC
-
-**Registration**: Wyoming, US
-
-**Security Tokens / Shares Class A Allocation**:
-
-* Team - 100% (Pre distribution)&#x20;
-* **Seed Round - 20%**
-
-DAO is represented by the 20% of shareholding equity.
-
-## **Team**
-
-| <p><strong>Team Lead</strong><br><strong></strong><a href="https://www.linkedin.com/in/deyev/">Gene Deyev</a></p>                                       | <p><strong>Business Development</strong><br><strong></strong><a href="https://www.linkedin.com/in/ross-shemeliak/">Ross Shemeliak</a></p> |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| <p><strong>Business Development, Communications</strong><br><strong></strong><a href="https://www.linkedin.com/in/borys-pikalov/">Boris Pikalov</a></p> | <p><strong>Finance, Business Modeling, Tokenomics</strong><br><strong></strong>Vadym Lutsiv</p>                                           |
-| <p><strong>Communications, Operations</strong><br><strong></strong><a href="https://www.linkedin.com/in/igor-haleta/">Igor Haleta</a></p>               | <p><strong>Project Management</strong><br><strong></strong>Dmitry Trapitsyn</p>                                                           |
-| <p><strong>Blockchain Development</strong><br><strong></strong>Elena Dolinchuk</p>                                                                      | <p><strong>Legal Management</strong><br>Daniil Voloshchuk</p>                                                                             |
-
-## Partners
-
-[Cody UA](https://codyua.com/)\
-Blockchain Development, Architecture, IT Outsource
-
-[Stobox Technologies](https://www.stobox.io)\
-Business Concept, Architecture, Implementation, Project Management\
+TBA\

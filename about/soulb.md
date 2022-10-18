@@ -6,7 +6,7 @@ description: Real-life identities and social capital brought to Web3.
 
 ## What is Soulb ID?
 
-Soulb ID is a DAO-governed application for the issuance and management of Soulbound Tokens (SBT) including digital identities, certificates, and community ratings.&#x20;
+Soulb ID is a decentralized application for the issuance and management of Soulbound Tokens (SBT) including digital identities, certificates, and community ratings.&#x20;
 
 ## Soulbound ID Tokens \[SBID]
 

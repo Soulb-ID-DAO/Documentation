@@ -8,14 +8,17 @@ description: >-
 
 ## Social Links
 
-**GitHub**\
-****[https://github.com/Soulb-ID-DAO](https://github.com/Soulb-ID-DAO)
-
 **Telegram**\
 [https://t.me/soulbidchannel](https://t.me/soulbidchannel)
 
 **Twitter**\
 &#x20;[https://twitter.com/soulb\_id](https://twitter.com/soulb\_id)
+
+**GitHub**\
+****[https://github.com/Soulb-ID-DAO](https://github.com/Soulb-ID-DAO)
+
+**Medium**\
+[https://medium.com/@soulb\_id](https://medium.com/@soulb\_id)
 
 ## Soulb ID Utility Token
 

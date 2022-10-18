@@ -1,6 +1,6 @@
 # Table of contents
 
-* [⏹ Welcome to Soulb ID](README.md)
+* [🆔 Welcome to Soulb ID](README.md)
 
 ## ABOUT
 

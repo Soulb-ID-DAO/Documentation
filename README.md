@@ -3,20 +3,20 @@ cover: .gitbook/assets/background-2.png
 coverY: -424.978417266187
 ---
 
-# 💼 Welcome to Soulb ID
+# ⏹ Welcome to Soulb ID
 
-## Slide 1 | What is Soulb ID?
+## What is Soulb ID?
 
-**An application for the issuance and management of Identity or Soulbound Tokens (SBIDs).**
+**A decentralized application for the issuance and management of Identity or Soulbound Tokens (SBIDs).**
 
 * Identities
 * Commitments
 * Credentials
 * Affiliations
 
-**Web3 | DeSoc | Tokenization**
+**Hashtags: #Web3, #DeSoc, #Tokenization**
 
-## Slide 2 | **Problem**
+## **Problem**
 
 Decentralized web unlocks a multi-trillion dollar industry where **users/wallets remain anonymous**, which leads to numerous frauds and market manipulations.
 
@@ -25,7 +25,7 @@ Decentralized web unlocks a multi-trillion dollar industry where **users/wallets
 * Lack of trust
   * Recent fraud cases i.e. Luna, UST
 
-## **Slide 3 | Solution**
+## **Solution**
 
 **A decentralized application for issuance and management of identity tokens and other soulbound tokens**. Merging blockchain wallets with their owners' identities ensures access to the decentralized web in accordance with financial regulations.
 
@@ -39,7 +39,7 @@ Decentralized web unlocks a multi-trillion dollar industry where **users/wallets
 
 ![](<.gitbook/assets/\_--\_NTT-Solution-Architecture-MVP (1) (1).svg>)
 
-## Slide 4 | How does **** it work?
+## How does **** it work?
 
 Soulb ID application supports two types of users: **business** and **customer**.
 
@@ -47,23 +47,22 @@ Soulb ID application supports two types of users: **business** and **customer**.
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <ul><li>Connect</li><li>Authorize</li><li><p>Select Soulb ID</p><ul><li>Basic Identity Token</li><li>Enhanced Identity Token</li><li>Other</li></ul></li><li>Make payment </li><li>Receive SBID</li></ul><p><strong>Navigate web3 with your private data encoded and protected</strong></p> | <p><strong>API Connect</strong></p><ul><li>Register</li><li>Receive API Key</li><li>Integrate </li><li>Validate</li></ul><p><strong>Grant access to a decentralized application with respect to unique user parameters stored in SBID.</strong> <br><strong></strong></p><p></p> |
 
-## **Slide 5 | Business Model**
+## **Business Model**
 
 Soulb does not have a **utility token**. All payments are processed via fiat and crypto merchants.
 
 ### **For customer**
 
 * Basic Identity Token - $10
-* Enhanced Identity Token - $10
+* Enhanced Identity Token - $15
 
 ### For business
 
+* Business Identity - $TBA
 * Integration - Free
 * Validation - Free
 
-Business clients may compensate the costs of minting SBIDs for their users
-
-## **Slide 6 |** Market and Momentum
+## Market and Momentum
 
 Crypto becomes regulated. On-chain identities are the key element of building sustainable decentralized financial Internet.
 
@@ -71,61 +70,41 @@ Crypto becomes regulated. On-chain identities are the key element of building su
 * **Regular crypto investors seek assets-backed regulated tokens**. Users generally are ready for KYC/AML procedures.  &#x20;
 * **Tokenization gains momentum**. To learn more about tokenization visit [Stobox Blog](http://blog.stobox.io).
 
-## **Slide 7 |** Roadmap
-
-### Q3 2022
-
-* **Soulb ID MVP**
-  * Affiliations
-  * Affiliations, Credentials, Commitments
-* **Expected SBID issuance:** 500 SBIDs
-* **Selecting KYC Provider**
+## Roadmap
 
 ### Q4 2022
 
 * **Soulb ID Beta**
-  * Identities, Credentials, Commitments
-* Integration with [Stobox DS Dashboard](https://stobox.io/dashboard).&#x20;
-* Integration with [DS Swap](https://www.dsswap.io).
-* **Expected SBID issuance**: 2500 SBIDs
+  * Affiliations
+  * Affiliations, Credentials, Commitments
+* **Expected SBID issuance:** 1000 SBIDs
+* **Selecting KYC Provider**
 
 ### Q1 2023
 
-**Soulb ID 1.0**
+* **Soulb ID 1.0**
+* Identities, Credentials, Commitments
+* Integration with [Stobox DS Dashboard](https://stobox.io/dashboard).&#x20;
+* Integration with [CryptoUnit](https://cryptounit.cc/).
+* Integration with [DS Swap](https://www.dsswap.io).
+* **Expected SBID issuance**: 10,000 SBIDs
+
+### Q2 2023
+
+**Soulb ID 2.0**
 
 * Multichain support
 * All types of SBIDs
 * Public API&#x20;
-* **Expected SBID issuance**: 10,000 SBIDs
+* **Expected SBID issuance**: 50,000 SBIDs
 
-## **Slide 8 |** Team & Partners&#x20;
-
-### Team
-
-| <p><strong>Team Lead</strong><br><strong></strong><a href="https://www.linkedin.com/in/deyev/">Gene Deyev</a></p>                                       | <p><strong>Business Development</strong><br><strong></strong><a href="https://www.linkedin.com/in/ross-shemeliak/">Ross Shemeliak</a></p> |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| <p><strong>Business Development, Communications</strong><br><strong></strong><a href="https://www.linkedin.com/in/borys-pikalov/">Boris Pikalov</a></p> | <p><strong>Finance, Business Modeling, Tokenomics</strong><br><strong></strong>Vadym Lutsiv</p>                                           |
-| <p><strong>Communications, Operations</strong><br><strong></strong><a href="https://www.linkedin.com/in/igor-haleta/">Igor Haleta</a></p>               | <p><strong>Project Management</strong><br><strong></strong>Dmitry Trapitsyn</p>                                                           |
-| <p><strong>Blockchain Development</strong><br><strong></strong>Elena Dolinchuk</p>                                                                      | <p><strong>Legal Management</strong><br>Daniil Voloshchuk</p>                                                                             |
-
-### **Partners**
+## **Partners**
 
 ****[**Stobox Technologies**](https://www.stobox.io)\
 Business Concept, Architecture, Implementation, Project Management
 
+[**Cryptounit**](https://cryptounit.cc/) **** \
+Adoption, Distribution, Community
+
 [**Cody UA**](https://codyua.com/)\
 Blockchain Development, Architecture, IT Outsource
-
-## **Slide 9 |** Round Terms&#x20;
-
-**Round:** Seed ****&#x20;
-
-**Security:** SAFE
-
-**Target Raise:** from $250,000 to $1,000,000
-
-**Discount Rate:** 15%
-
-**Valuation Cap:** $5,000,000
-
-**Contact** [**Gene Deyev**](https://www.linkedin.com/in/deyev/) **or** [**Vadym Lutsiv**](mailto:vl@stoboxplatform.com) **write to** [**gd@stoboxplatform.com**](mailto:gd@stoboxplatform.com)****

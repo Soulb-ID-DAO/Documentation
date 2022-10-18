@@ -58,7 +58,7 @@ Soulb does not have a **utility token**. All payments are processed via fiat and
 
 ### For business
 
-* Business Identity - $TBA
+* Business Identity - TBA
 * Integration - Free
 * Validation - Free
 

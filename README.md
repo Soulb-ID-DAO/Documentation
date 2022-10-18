@@ -1,6 +1,6 @@
 ---
-cover: .gitbook/assets/background-2.png
-coverY: -424.978417266187
+cover: .gitbook/assets/background-4.png
+coverY: -887.8657074340526
 ---
 
 # ⏹ Welcome to Soulb ID
@@ -58,7 +58,7 @@ Soulb does not have a **utility token**. All payments are processed via fiat and
 
 ### For business
 
-* Business Identity - $TBA
+* Business Identity - TBA
 * Integration - Free
 * Validation - Free
 
